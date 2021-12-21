@@ -1,0 +1,9 @@
+.headerClass {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.routeClass {
+  margin: 0px 10px;
+}
